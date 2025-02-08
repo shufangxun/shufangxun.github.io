@@ -1,0 +1,17 @@
+# Site settings
+title: Fangxun Shu
+email: shufangxun@gmail.com
+baseurl: ""
+url: "shufangxun.github.io"
+blogurl: "shufangxun.github.io"
+github_username:  shufangxun
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
